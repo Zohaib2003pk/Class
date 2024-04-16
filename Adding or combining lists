@@ -1,0 +1,7 @@
+fruitbasket=["Apple","Grapes","Mango"]
+Buyfruit=["Banana","Cherry"]
+fruitbasket.extend(Buyfruit)
+print(fruitbasket)
+
+fruitbasket.append("Watermelon")
+print(fruitbasket)
