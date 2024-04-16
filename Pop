@@ -1,0 +1,12 @@
+#List
+Student1=["Zohaib",67509,4510274558349,["Python","Discrete","PF","Islamiat"]]
+Student2=["Mujtaba",67511,4510254558349,["ICT","Discrete","PF","PST"]]
+Student3=["Sheraz",67512,4610274558349,["OOP","Linear","PF","Islamiat"]]
+
+Student1.pop(3)
+print(Student1)
+Student2.pop(3)
+print(Student2)
+Student3.pop(3)
+print(Student3)
+
